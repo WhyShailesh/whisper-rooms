@@ -28,7 +28,6 @@ Backend:
 - WebSocket 
 
 
-
 ## Planned Features
 
 - [ ] Room creation with auto-generated code
@@ -39,8 +38,7 @@ Backend:
 - [ ] Inactivity timeout system
 - [ ] Clean mobile UI
 
-
-## 📍 Current Status
+## Current Status
 
 Project setup and UI design phase.
 
