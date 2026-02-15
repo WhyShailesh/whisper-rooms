@@ -17,7 +17,7 @@ Whisper Rooms is designed to allow users to:
 
 The goal is to build a lightweight, privacy-focused communication platform.
 
-## 🏗 Planned Tech Stack
+## Planned Tech Stack
 
 Frontend:
 - Flutter (Dart)
@@ -29,7 +29,7 @@ Backend:
 
 
 
-## 📌 Planned Features
+## Planned Features
 
 - [ ] Room creation with auto-generated code
 - [ ] Join request approval system
