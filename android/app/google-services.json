@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837024692777",
+    "project_id": "vanish-f2fb3",
+    "storage_bucket": "vanish-f2fb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837024692777:android:dbb07ef7d0e86653eb3a38",
+        "android_client_info": {
+          "package_name": "com.vanish.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGxR5KyBU3dvUh1XuE6RUUdW4jzyKJqm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

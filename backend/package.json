@@ -1,0 +1,12 @@
+{
+  "name": "vanish-backend",
+  "version": "1.0.0",
+  "description": "Ephemeral chat backend - messages in RAM only, no storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
+}
